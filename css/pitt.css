@@ -1,0 +1,6 @@
+tei-teiheader {
+  display: none;
+}
+tei-p,tei-ab {
+  display:block;
+}
